@@ -1,0 +1,22 @@
+{
+    "name": "suhanyu/for-php",
+    "description": "高性能 简单框架",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Samuel Su",
+            "email": "suhanyujie@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"noahbuscher/macaw": "dev-master"	
+
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
